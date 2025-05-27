@@ -1,0 +1,6 @@
+[21:36:32.752] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=9, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=150, batch_size=24, img_size=224, is_savenii=False, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='../predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse224')
+[21:36:32.752] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[21:36:32.753] 12 test iterations per epoch
+[21:38:15.380] idx 0 case case0008 mean_dice 0.676337 mean_hd95 17.967109
+[21:39:00.340] idx 1 case case0022 mean_dice 0.912296 mean_hd95 2.274382
+[21:39:50.817] idx 2 case case0038 mean_dice 0.783719 mean_hd95 53.128590

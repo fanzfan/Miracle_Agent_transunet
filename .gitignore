@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*~
+__pycache__/
+.vscode/
+model/*
+R50+ViT-B_16.npz
